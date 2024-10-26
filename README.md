@@ -67,7 +67,7 @@ No specific Unity environment is required.
 Clone the repository as follows:
 
 ```
-git clone --recursive https://github.com/toppers/hakoniwa-unity-drone-model.git
+git clone --recursive https://github.com/IliaTrofimov/unity-drone-model
 ```
 
 Once the cloning is complete, navigate to the directory as follows:
